@@ -1,5 +1,4 @@
 
-
 class Activation {
 
 	constructor(func: (v: number) => number, derivative: (v: number) => number) {
